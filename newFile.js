@@ -1,0 +1,1 @@
+yesBtn.style.position = "relative";
